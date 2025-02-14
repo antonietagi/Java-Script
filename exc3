@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Escrever um programa Javascript que solicita dois números ao usuário e exiba “igual” caso sejam iguais ou mostre qual o maior.
+        let n1 = prompt("Digite o primeiro número");
+        let n2 = prompt("Digite o segundo número");
+
+        
+
+
+
+
+
+    </script>
+    
+
+</body>
+</html>
